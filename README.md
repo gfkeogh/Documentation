@@ -21,7 +21,7 @@
 
 **Desktop**
 
-- [cirrus](https://github.com/gfkeogh/Cirrus) — *Manages Rackspace Cloud Files.*
+- [Cirrus](https://github.com/gfkeogh/Cirrus) — *Manages Rackspace Cloud Files.*
 - [Dumpenv](https://github.com/gfkeogh/DumpEnv) — *Dumps interesting environmental information.*
 - [DuplicateScan](https://github.com/gfkeogh/DuplicateScan) — *Scans for duplicate files.*
 - [EsentWorkbench](https://github.com/gfkeogh/EsentWorkbench) — *Manages ESENT (Extensible Storage Engine) databases.* ([Documentation][docesent])
@@ -44,7 +44,7 @@
 
 - [UdpDemo](https://github.com/gfkeogh/UdpDemo) — *How to use the UdpClient class for decoupled broadcasting and receiving.* (See [BLOG](https://gfkeogh.blogspot.com/2019/01/udp-broadcasting-sample.html))
 - [CodePackDriver](https://github.com/gfkeogh/CodePackDriver) — *How to use the TaskDialog class.* (See [BLOG](https://gfkeogh.blogspot.com.au/2017/02/taskdialog-windows-api-code-pack.html))
-- [cscompile](https://github.com/gfkeogh/CsCompile) — *Dynamically compile and execute C# code at runtime.* (See [BLOG](http://gfkeogh.blogspot.com.au/2014/07/dynamic-c-code-compilation.html))
+- [CsCompile](https://github.com/gfkeogh/CsCompile) — *Dynamically compile and execute C# code at runtime.* (See [BLOG](http://gfkeogh.blogspot.com.au/2014/07/dynamic-c-code-compilation.html))
 - [RegKeySecurity](https://github.com/gfkeogh/RegKeySecurity) — *Create a Registry key and set custom ACL permissions.* (See [BLOG](http://gfkeogh.blogspot.com.au/2015/03/registry-secrets-and-permissions.html))
 - [SampleEncryption](https://github.com/gfkeogh/SampleEncryption) — *Implement a symmetric encryption algorithm.* (See [BLOG](http://gfkeogh.blogspot.com.au/2014/04/implementing-symmetricalgorithm.html))
 - [primecalc](https://github.com/gfkeogh/primecalc) — *Generates pages of Lehmer's 1914 book [List of Prime Numbers from 1 to 10,006,721](http://www.orthogonal.com.au/lehmer/).*
@@ -53,7 +53,7 @@
 
 ###### Note that Silverlight is a deprecated Microsoft platform, so the following apps only work correctly in later versions of Internet Explorer (see [System Requirements][slcompat]). Microsoft [Edge][edge] browser does not support Silverlight.
 
-- [Boxes]https://github.com/gfkeogh/Boxes) — *Boxes perturbed by mouse movement.* (See [Demo](http://www.orthogonal.com.au/computers/boxes/index.htm))
+- [Boxes](https://github.com/gfkeogh/Boxes) — *Boxes perturbed by mouse movement.* (See [Demo](http://www.orthogonal.com.au/computers/boxes/index.htm))
 - [Hypno](https://github.com/gfkeogh/Hypno) — *Animated coloured balls.* (See [Demo](http://www.orthogonal.com.au/computers/hypno/index.htm))
 - [SilverPrimeSpiral](https://github.com/gfkeogh/SilverPrimeSpiral) — *Prime numbers wound on a spriral.* (See [Demo](http://www.orthogonal.com.au/prime_spiral/index.htm))
 - [SilverRand](https://github.com/gfkeogh/SilverRand) — *Random shapes of different types.* (See [Demo](http://www.orthogonal.com.au/computers/silverrand/index.htm))
