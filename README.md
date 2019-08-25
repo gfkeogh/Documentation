@@ -22,7 +22,7 @@
 **Desktop**
 
 - [Cirrus](https://github.com/gfkeogh/Cirrus) — *Manages Rackspace Cloud Files.*
-- [Dumpenv](https://github.com/gfkeogh/DumpEnv) — *Dumps interesting environmental information.*
+- [DumpEnv](https://github.com/gfkeogh/DumpEnv) — *Dumps interesting environmental information.*
 - [DuplicateScan](https://github.com/gfkeogh/DuplicateScan) — *Scans for duplicate files.*
 - [EsentWorkbench](https://github.com/gfkeogh/EsentWorkbench) — *Manages ESENT (Extensible Storage Engine) databases.* ([Documentation][docesent])
 - [HashGen](https://github.com/gfkeogh/HashGen) — *Calculates hash values using a variety of algorithms.*
@@ -34,6 +34,7 @@
 - [ResExtract](https://github.com/gfkeogh/ResExtract) — *Extracts icons from executable image files.*
 - [Scanex](https://github.com/gfkeogh/Scanex) — *Scans executable image files and displays their properties in a grid.*
 - [TagSheet](https://github.com/gfkeogh/TagSheet) — *Bulk edit ID3 tags in a grid.*
+- [Trona](https://github.com/gfkeogh/Trona) - *The most recent Nancy Street Collections Database suite.*
 
 **Command Line**
 
