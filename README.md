@@ -34,7 +34,7 @@
 - [ResExtract](https://github.com/gfkeogh/ResExtract) — *Extracts icons from executable image files.*
 - [Scanex](https://github.com/gfkeogh/Scanex) — *Scans executable image files and displays their properties in a grid.*
 - [TagSheet](https://github.com/gfkeogh/TagSheet) — *Bulk edit ID3 tags in a grid.*
-- [Trona](https://github.com/gfkeogh/Trona) - *The most recent Nancy Street Collections Database suite.*
+- [Trona](https://github.com/gfkeogh/Trona) — *The most recent Nancy Street Collections Database suite.*
 
 **Command Line**
 
