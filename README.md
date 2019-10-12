@@ -21,7 +21,6 @@
 
 **Desktop**
 
-- [Cirrus](https://github.com/gfkeogh/Cirrus) — *Manages Rackspace Cloud Files.*
 - [DumpEnv](https://github.com/gfkeogh/DumpEnv) — *Dumps interesting environmental information.*
 - [DuplicateScan](https://github.com/gfkeogh/DuplicateScan) — *Scans for duplicate files.*
 - [EsentWorkbench](https://github.com/gfkeogh/EsentWorkbench) — *Manages ESENT (Extensible Storage Engine) databases.* ([Documentation][docesent])
@@ -69,6 +68,16 @@
 - [P0ison][p0ison] — *An experimental [Blazor][blazor] application that displays large numbers of random but vaguely realistic looking email addresses that are (supposedly) poisonous to harvesters. This simple app was created mainly as a sanity check that Blazor works.*
 - [Trona Blaze][tronablaze] — *Another experimental [Blazor][blazor] application that verifies that the more advanced features such as dependency injection, routing and service calls work as advertised. This more realistic app calls the [Trona][trona] web service to list information from the [Nancy Street collections database][collhist].*
 - [Visitor Book][visbook] — *A simple traditional ASP.NET Web Forms application for the [orthogonal.com.au][orthocom] website. The book entries are stored in an Azure table. No one has entered anything in the book for 6 years ... is it still working?!*
+
+**Deprecated / Archived**
+
+- [Cirrus](https://github.com/gfkeogh/Cirrus) — *Manages Rackspace Cloud Files*
+- Mica — *Redundant due to Azure Storage Explorer*
+- [Mica](https://github.com/gfkeogh/Mica) — *Collections database project (~2005)*
+- [Jade](https://github.com/gfkeogh/Jade) — *Collections database project (~2009-2010)*
+- [Opus](https://github.com/gfkeogh/Opus) — *Collections database project (~2010)*
+- [Topaz](https://github.com/gfkeogh/Topaz-Archive) — *Collections database project (~2010-2011)*
+- [Folio](https://github.com/gfkeogh/Folio) — *Collections database project (~2011-2012)*
 
 [![Orthogonal Programming 
 Link](https://orthoprog.blob.core.windows.net/reference/imgex/op.png?p=Documentation)](http://www.orthogonal.com.au/computers/)
