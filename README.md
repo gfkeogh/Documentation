@@ -1,5 +1,3 @@
-All Orthogonal Programming repos and wikis have moved to [Azure DevOps][devopsdoc].
+All Orthogonal Programming repositories and wikis have moved to Azure DevOps.
 
-### Note from Greg -- My DevOps organisation has been inaccessible since late Jan 2020 due to some sort of problem with AD users and authentication. I've exchanged dozens of emails with Microsoft support, but no progress has been made. And to make things worse ... the whole *Orthogonal Programming* organisation and  all of its repositories and Wikis seems to have vanished some time around the end of Feb 2020.
-
-[devopsdoc]: https://orthogonal-programming.visualstudio.com/Documentation/_wiki/wikis/Documentation.wiki/69/Home
+The [Welcome Wiki Page](https://dev.azure.com/orthogonal/Welcome/_wiki/wikis/Welcome.wiki/38/Welcome) contains a neat summary of all public repositories.
